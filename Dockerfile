@@ -1,4 +1,4 @@
-FROM billyteves/dind
+FROM billyteves/ubuntu-dind
 
 MAINTAINER Billy Ray Teves <billyteves@gmail.com>
 
